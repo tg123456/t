@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551683a4-1573-4e02-8556-16fb60d79b47" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/tornado1.py" afterPath="$PROJECT_DIR$/tornado1.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,6 +116,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554013543403</updated>
     </task>
+    <task id="LOCAL-00001" summary="tg">
+      <created>1554015941407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554015941407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -149,6 +157,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tg" />
+    <option name="LAST_COMMIT_MESSAGE" value="tg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
