@@ -4,8 +4,8 @@ import tornado.web
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-        print("tg9")
-        print("tanggang9")
+        print("tg912")
+        print("tanggasdf")
         self.write("Hello world")
 
 
