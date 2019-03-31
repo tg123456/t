@@ -5,6 +5,7 @@ import tornado.web
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
         print("tg sss")
+        print("t2 ss")
         self.write("Hello world")
 
 
